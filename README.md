@@ -71,3 +71,12 @@ Run the pipeline:
 ```powershell
 python main.py
 ```
+
+---
+
+## Results
+
+Upon execution, the script trains the LSTM model and outputs the following dashboard:
+
+![Temperature Forecasting Results](temperature_forecasting_results.png)
+
